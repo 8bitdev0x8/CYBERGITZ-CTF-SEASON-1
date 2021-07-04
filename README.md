@@ -7,7 +7,7 @@
     <li><a href="#01.THE_HEDGEHOG–10_POINTS">THE HEDGEHOG</a></li>
     <li><a href="#02.STEGANOSAURUS–30_POINTS">STEGANOSAURUS</a></li>
     <li><a href="#03.TOMATO_SAUCE–30_POINTS">TOMATO SAUCE</a></li>
-    <li><a href="#04.GOLLUM_THE_EXPLORER–20_POINTS">GOLLUM THE EXPLORER</a></li>
+    <li><a href="#04gollum_the_explorer20_points">GOLLUM THE EXPLORER</a></li>
     <li><a href="#05.THE_FRENCH_CONNECTION–10_POINTS">THE FRENCH CONNECTION</a></li>
     <li><a href="#06.DROP_THE BASS!–10_POINTS">DROP THE BASS!</a></li>
     <li><a href="#07.ITS_SUB_TIME!–10_POINTS">ITS SUB TIME!</a></li>
