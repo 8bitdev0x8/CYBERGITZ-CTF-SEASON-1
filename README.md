@@ -4,7 +4,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="## 01.THE_HEDGEHOG–10_POINTS">THE HEDGEHOG</a>
+    <li><a href="# 01.THE_HEDGEHOG–10_POINTS">THE HEDGEHOG</a>
     <li><a href="## 02.STEGANOSAURUS–30_POINTS">STEGANOSAURUS</a>
     <li><a href="## 03.TOMATO_SAUCE–30_POINTS">TOMATO SAUCE</a></li>
     <li><a href="## 04.GOLLUM_THE_EXPLORER–20_POINTS">GOLLUM THE EXPLORER</a></li>
@@ -54,7 +54,7 @@ View Source using Web Inspector, Flag is hidden in CSS file.
 flag{turnitleaveitstopformatit}
 ```
 
-![alt text](https://github.com/8bitdev0x8/CYBERGITZ-CTF-SEASON-1/tree/main/Screenshot.png)
+![alt text](https://github.com/8bitdev0x8/CYBERGITZ-CTF-SEASON-1/blob/main/03.TOMATO_SAUCE/Screenshot.png)
 
 ## 04.GOLLUM_THE_EXPLORER–20_POINTS
 
@@ -192,7 +192,7 @@ flag{YOUR FLAG IS OPENSESAME}
 
 PNG embedded in PDF 
 
-![alt text](image.ODV750.png)
+![alt text](https://github.com/8bitdev0x8/CYBERGITZ-CTF-SEASON-1/blob/main/13.CARDIOGRAM/image.ODV750.png)
 
 ```bash
 flag{4023124842131283}
