@@ -32,4 +32,4 @@ View Source using Web Inspector, Flag is hidden in CSS file.
 flag{turnitleaveitstopformatit}
 ```
 
-![alt text](https://github.com/8bitdev0x8/CYBERGITZ-CTF-SEASON-1/tree/main/Screenshot.png)
+![alt text](https://github.com/8bitdev0x8/CYBERGITZ-CTF-SEASON-1/blob/main/03.TOMATO_SAUCE/Screenshot.png)
