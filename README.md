@@ -4,21 +4,21 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="# 01.THE_HEDGEHOG–10_POINTS">THE HEDGEHOG</a>
-    <li><a href="## 02.STEGANOSAURUS–30_POINTS">STEGANOSAURUS</a>
-    <li><a href="## 03.TOMATO_SAUCE–30_POINTS">TOMATO SAUCE</a></li>
-    <li><a href="## 04.GOLLUM_THE_EXPLORER–20_POINTS">GOLLUM THE EXPLORER</a></li>
-    <li><a href="## 05.THE_FRENCH_CONNECTION–10_POINTS">THE FRENCH CONNECTION</a></li>
-    <li><a href="## 06.DROP_THE BASS!–10_POINTS">DROP THE BASS!</a></li>
-    <li><a href="## 07.ITS_SUB_TIME!–10_POINTS">ITS SUB TIME!</a></li>
-    <li><a href="## 08.MEIN_KAMPF–10_POINTS">MEIN KAMPF</a></li>
-    <li><a href="## 09.SMS_OF_THE_INTERNET–10_POINTS">SMS OF THE INTERNET</a></li>
-    <li><a href="## 10.THIS_PANDEMIC–10_POINTS">THIS PANDEMIC</a></li>
-    <li><a href="## 11.DATA_OF_DATA–20_POINTS">DATA OF DATA</a></li>
-    <li><a href="## 12.MORROCO–10_POINTS">MORROCO</a></li>
-    <li><a href="## 13.CARDIOGRAM–20_POINTS">CARDIOGRAM</a></li>
-    <li><a href="## 14.STEGNUM_OPUS–20_POINTS">STEGNUM OPUS</a></li>
-    <li><a href="## Contributing">Contributing</a></li>
+    <li><a href="#01.THE_HEDGEHOG–10_POINTS">THE HEDGEHOG</a>
+    <li><a href="#02.STEGANOSAURUS–30_POINTS">STEGANOSAURUS</a>
+    <li><a href="#03.TOMATO_SAUCE–30_POINTS">TOMATO SAUCE</a></li>
+    <li><a href="#04.GOLLUM_THE_EXPLORER–20_POINTS">GOLLUM THE EXPLORER</a></li>
+    <li><a href="#05.THE_FRENCH_CONNECTION–10_POINTS">THE FRENCH CONNECTION</a></li>
+    <li><a href="#06.DROP_THE BASS!–10_POINTS">DROP THE BASS!</a></li>
+    <li><a href="#07.ITS_SUB_TIME!–10_POINTS">ITS SUB TIME!</a></li>
+    <li><a href="#08.MEIN_KAMPF–10_POINTS">MEIN KAMPF</a></li>
+    <li><a href="#09.SMS_OF_THE_INTERNET–10_POINTS">SMS OF THE INTERNET</a></li>
+    <li><a href="#10.THIS_PANDEMIC–10_POINTS">THIS PANDEMIC</a></li>
+    <li><a href="#11.DATA_OF_DATA–20_POINTS">DATA OF DATA</a></li>
+    <li><a href="#12.MORROCO–10_POINTS">MORROCO</a></li>
+    <li><a href="#13.CARDIOGRAM–20_POINTS">CARDIOGRAM</a></li>
+    <li><a href="#14.STEGNUM_OPUS–20_POINTS">STEGNUM OPUS</a></li>
+    <li><a href="#Contributing">Contributing</a></li>
   </ol>
 </details>
 
