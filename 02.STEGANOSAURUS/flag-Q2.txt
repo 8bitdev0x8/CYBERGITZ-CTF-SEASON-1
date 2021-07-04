@@ -1,0 +1,5 @@
+Base64 - ZmxhZ3t3b3d5MHVmMHVuZDF0fQ== 
+
+Base64 Decode - flag{wowy0uf0und1t}
+
+//stegbrute
