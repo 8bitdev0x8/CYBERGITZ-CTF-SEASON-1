@@ -126,6 +126,11 @@ flag{W3_l0v3_hacking}
 
 ## 07.ITS_SUB_TIME!–10_POINTS
 
+### Substitution Cipher
+
+substitution cipher is a method of encrypting in which units of plaintext are replaced with the ciphertext, in a defined manner, with the help of a key; the "units" may be single letters (the most common), pairs of letters, triplets of letters, mixtures of the above, and so forth. The receiver deciphers the text by performing the inverse substitution process to extract the original message.
+
+
 Alphabetical Substitution-
 
 [Cipher](https://cryptii.com/pipes/caesar-cipher) : ysau{ekbhm0_ol_sgxt!}
