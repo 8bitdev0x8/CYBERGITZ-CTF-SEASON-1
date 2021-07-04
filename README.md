@@ -4,21 +4,21 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#01.THE_HEDGEHOG–10_POINTS">THE HEDGEHOG</a></li>
-    <li><a href="#02.STEGANOSAURUS–30_POINTS">STEGANOSAURUS</a></li>
-    <li><a href="#03.TOMATO_SAUCE–30_POINTS">TOMATO SAUCE</a></li>
+    <li><a href="#01the_hedgehog10_points">THE HEDGEHOG</a></li>
+    <li><a href="#02steganosaurus30_points">STEGANOSAURUS</a></li>
+    <li><a href="#03tomato_sauce30_points">TOMATO SAUCE</a></li>
     <li><a href="#04gollum_the_explorer20_points">GOLLUM THE EXPLORER</a></li>
-    <li><a href="#05.THE_FRENCH_CONNECTION–10_POINTS">THE FRENCH CONNECTION</a></li>
-    <li><a href="#06.DROP_THE BASS!–10_POINTS">DROP THE BASS!</a></li>
-    <li><a href="#07.ITS_SUB_TIME!–10_POINTS">ITS SUB TIME!</a></li>
-    <li><a href="#08.MEIN_KAMPF–10_POINTS">MEIN KAMPF</a></li>
-    <li><a href="#09.SMS_OF_THE_INTERNET–10_POINTS">SMS OF THE INTERNET</a></li>
-    <li><a href="#10.THIS_PANDEMIC–10_POINTS">THIS PANDEMIC</a></li>
-    <li><a href="#11.DATA_OF_DATA–20_POINTS">DATA OF DATA</a></li>
-    <li><a href="#12.MORROCO–10_POINTS">MORROCO</a></li>
-    <li><a href="#13.CARDIOGRAM–20_POINTS">CARDIOGRAM</a></li>
-    <li><a href="#14.STEGNUM_OPUS–20_POINTS">STEGNUM OPUS</a></li>
-    <li><a href="#Contributing">Contributing</a></li>
+    <li><a href="#05the_french_connection10_points">THE FRENCH CONNECTION</a></li>
+    <li><a href="#06drop_the-bass10_points">DROP THE BASS!</a></li>
+    <li><a href="#07its_sub_time10_points">ITS SUB TIME!</a></li>
+    <li><a href="#08mein_kampf10_points">MEIN KAMPF</a></li>
+    <li><a href="#09sms_of_the_internet10_points">SMS OF THE INTERNET</a></li>
+    <li><a href="#10this_pandemic10_points">THIS PANDEMIC</a></li>
+    <li><a href="#11data_of_data20_points">DATA OF DATA</a></li>
+    <li><a href="#12morroco10_points">MORROCO</a></li>
+    <li><a href="#13cardiogram20_points">CARDIOGRAM</a></li>
+    <li><a href="#14stegnum_opus20_points">STEGNUM OPUS</a></li>
+    <li><a href="#contributing">Contributing</a></li>
   </ol>
 </details>
 
@@ -56,16 +56,21 @@ flag{turnitleaveitstopformatit}
 
 ![alt text](https://github.com/8bitdev0x8/CYBERGITZ-CTF-SEASON-1/blob/main/03.TOMATO_SAUCE/Screenshot.png)
 
+
 ## 04.GOLLUM_THE_EXPLORER–20_POINTS
 
 This flag doesn’t have a format and is one word.
 
 ### Exiftool
 
+
 Sometimes important stuff is hidden in the metadata of the image or the file , exiftool can be very helpful to view the metadata of the files.
 You can get it from [here](https://exiftool.org/)
 
+
 #### Ubuntu, Debian, Mint, Kali
+
+
 ```bash
 sudo apt install libimage-exiftool-perl
 ```
@@ -74,6 +79,7 @@ sudo apt install libimage-exiftool-perl
 exiftool <filename>
 ```
 GPS Cordinate data can be found in meta.
+
 
 ### Enter coordinates to find a place
 On your computer, open [Google Maps](https://www.google.com/maps)
@@ -107,6 +113,7 @@ Base64 Cipher : ZmxhZ3tXM19sMHYzX2hhY2tpbmd9
 flag{W3_l0v3_hacking}
 ```
 
+
 ## 07.ITS_SUB_TIME!–10_POINTS
 
 Alphabetical Substitution-
@@ -118,6 +125,7 @@ KEY : AZERTYUIOPQSDFGHJKLMWXCVBN
 ```bash
 flag{crypt0_is_love!}
 ```
+
 
 ## 08.MEIN_KAMPF–10_POINTS
 
@@ -140,6 +148,7 @@ Rotor 3: 3/12/1
 flag{derflagistpeakyblinders}
 ```
 
+
 ## 09.SMS_OF_THE_INTERNET–10_POINTS
 
 [Cipher](https://twitter.com/CSaintgits/status/1407709681976414211)
@@ -155,7 +164,9 @@ Hide secret messages in your tweets (or any text) with steg-of-the-dump.js. [Sit
 flag{steganoispower}
 ```
 
+
 ## 10.THIS_PANDEMIC–10_POINTS
+
 
 ### Strings
 Strings is a linux tool that displays printable strings in a file. That simple tool can be very helpful when solving stego challenges. Usually the embedded data is password protected or encrypted and sometimes the password is actaully in the file itself and can be easily viewed by using strings
@@ -169,6 +180,7 @@ strings <filename>
 flag{stay_h0m3_stay_saf3}
 ```
 
+
 ## 11.DATA_OF_DATA–20_POINTS
 
 ```bash
@@ -179,6 +191,7 @@ strings <filename>
 flag{da_vinci_cod3}
 ```
 
+
 ## 12.MORROCO–10_POINTS
 
 ### Morse code 
@@ -187,6 +200,7 @@ Morse code is a method used in telecommunication to encode text characters as st
 ```bash
 flag{YOUR FLAG IS OPENSESAME}
 ```
+
 
 ## 13.CARDIOGRAM–20_POINTS
 
@@ -197,6 +211,7 @@ PNG embedded in PDF
 ```bash
 flag{4023124842131283}
 ```
+
 
 ## 14.STEGNUM_OPUS–20_POINTS
 
@@ -218,6 +233,7 @@ zsteg <filename>
 ```bash
 flag{3v3rything_aint_cut3}
 ```
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
