@@ -37,6 +37,12 @@ flag{iwillbreakyourheart}
 
 ## 02.STEGANOSAURUS–30_POINTS
 
+### Steghide
+
+Steghide is a steganography program that hides data in various kinds of image and audio files , only supports these file formats : JPEG, BMP, WAV and AU. but it’s also useful for extracting embedded and encrypted data from other files.
+
+It can be installed with apt however the [source](https://github.com/StefanoDeVuono/steghide) can be found on github.
+
 ```bash
 steghide extract -sf <filename>
 ```
